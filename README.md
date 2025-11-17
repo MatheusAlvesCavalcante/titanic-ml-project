@@ -55,26 +55,6 @@ O objetivo foi criar um pipeline de ML capaz de prever quais passageiros sobrevi
 
 ---
 
-##  Como Executar
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-   ```
-2. Instale as dependências (se necessário):
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Execute o notebook ou o arquivo Python:
-
-   ```bash
-   python titanic.py
-   ```
-
----
-
 ##  Dependências Principais
 
 * Python 3.x
